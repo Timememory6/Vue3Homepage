@@ -3,6 +3,10 @@
 </template>
 
 <style>
+body {
+  margin: 0;
+}
+
 #app {
   background-color: white;
   text-align: center;
